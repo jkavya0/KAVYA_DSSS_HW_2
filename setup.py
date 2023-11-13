@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         # List any dependencies your project may have
-        'numpy',
+
     ],
     entry_points={
         'console_scripts': [
