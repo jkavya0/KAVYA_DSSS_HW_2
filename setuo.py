@@ -13,8 +13,5 @@ setup(
             'math_quiz = math_quiz:math_quiz',
         ],
     },
-    tests_require=[
-        'unittest',
-    ],
     test_suite='tests',
 )
